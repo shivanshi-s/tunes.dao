@@ -1,9 +1,9 @@
 export const activities = [
   {
     index: 1,
-    title: 'Enter Sandman',
-    subTitle: 'Metallica',
-    avatar: 'https://i.scdn.co/image/ab6761610000e5eb8101d13bdd630b0889acd2fd',
+    title: 'Dilon ka scooter',
+    subTitle: 'Dhinchak Pooja',
+    avatar: 'https://img.mensxp.com/media/content/2022/Jun/dhinchak-header-instagram_62a4987c6c9e1.jpeg',
   },
   {
     index: 2,
